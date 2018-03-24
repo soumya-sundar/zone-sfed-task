@@ -1,0 +1,62 @@
+[
+  {
+    "EmployeeId": 1,
+    "Name": "Daniel",
+    "ContactNo": 67823499,
+    "EmailId": "Daniel@abccorp.com"
+  },
+  {
+    "EmployeeId": 2,
+    "Name": "Elliot",
+    "ContactNo": 69123499,
+    "EmailId": "Elliot@abccorp.com"
+  },
+  {
+    "EmployeeId": 3,
+    "Name": "Brick",
+    "ContactNo": 87823499,
+    "EmailId": "Brick@abccorp.com"
+  },
+  {
+    "EmployeeId": 4,
+    "Name": "Christine",
+    "ContactNo": 23123499,
+    "EmailId": "Elliot@abccorp.com"
+  },
+  {
+    "EmployeeId": 5,
+    "Name": "Angela",
+    "ContactNo": 63823499,
+    "EmailId": "Angela@abccorp.com"
+  },
+  {
+    "EmployeeId": 6,
+    "Name": "Tania",
+    "ContactNo": 93650123,
+    "EmailId": "Tania@abccorp.com"
+  },
+  {
+    "EmployeeId": 7,
+    "Name": "Leslie",
+    "ContactNo": 74823499,
+    "EmailId": "Leslie@abccorp.com"
+  },
+  {
+    "EmployeeId": 8,
+    "Name": "Kay",
+    "ContactNo": 43123499,
+    "EmailId": "Kay@abccorp.com"
+  },
+  {
+    "EmployeeId": 9,
+    "Name": "Karren",
+    "ContactNo": 54823499,
+    "EmailId": "Karren@abccorp.com"
+  },
+  {
+    "EmployeeId": 10,
+    "Name": "Ahmed",
+    "ContactNo": 73123499,
+    "EmailId": "Ahmed@abccorp.com"
+  }
+]

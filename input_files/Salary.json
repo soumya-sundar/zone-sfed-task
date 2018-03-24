@@ -1,0 +1,62 @@
+[
+  {
+    "EmployeeId": 1,
+    "Designation": "Team Lead",
+    "Band": 8,
+    "Salary": "60K"
+  },
+  {
+    "EmployeeId": 2,
+    "Designation": "Senior Developer",
+    "Band": 7,
+    "Salary": "50K"
+  },
+  {
+    "EmployeeId": 3,
+    "Designation": "Senior Tester",
+    "Band": 7,
+    "Salary": "50K"
+  },
+  {
+    "EmployeeId": 4,
+    "Designation": "Junior Developer",
+    "Band": 6,
+    "Salary": "35K"
+  },
+  {
+    "EmployeeId": 5,
+    "Designation": "Mid Level Developer",
+    "Band": 7,
+    "Salary": "45K"
+  },
+  {
+    "EmployeeId": 6,
+    "Designation": "Business Analyst",
+    "Band": 7,
+    "Salary": "45K"
+  },
+  {
+    "EmployeeId": 7,
+    "Designation": "Project Manager",
+    "Band": 8,
+    "Salary": "70K"
+  },
+  {
+    "EmployeeId": 8,
+    "Designation": "Technical Writer",
+    "Band": 7,
+    "Salary": "40K"
+  },
+  {
+    "EmployeeId": 9,
+    "Designation": "IT specialist",
+    "Band": 7,
+    "Salary": "45K"
+  },
+  {
+    "EmployeeId": 10,
+    "Designation": "Senior Consultant",
+    "Band": 8,
+    "Salary": "55K"
+  }
+]
