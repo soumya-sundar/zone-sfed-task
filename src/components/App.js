@@ -51,8 +51,8 @@ class App extends React.Component {
     }
 
     onClick = () => {
-      if(this.state.fromId > this.state.toId) {
-        alert("From Employee Id should be less than to Employee Id");
+      if(this.state.fromId !== null && this.state.fromId > this.state.toId) {
+        alert("Both the fields should be specified and From Employee Id should be less than To Employee Id");
       }
       const records =  this.props.initialData.filter((elem) => {
         return (this.state.fromId <= elem.EmployeeId && elem.EmployeeId <= this.state.toId);
